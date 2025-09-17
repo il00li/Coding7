@@ -16,7 +16,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-TOKEN = '8324471840:AAHJrXuoAKmb0wmWMle3AnqbPt7Hj6zNQVI'
+TOKEN = '8052936091:AAEq0LpNMqjC38U9Ou0bsICeYMg3ddVbhl8'
 PIXABAY_API_KEY = '51444506-bffefcaf12816bd85a20222d1'
 ADMIN_ID = 6689435577  # معرف المدير
 WEBHOOK_URL = 'https://coding7-lpnb.onrender.com/webhook'  # تأكد من تطابق هذا مع عنوان URL الخاص بك
